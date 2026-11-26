@@ -1,0 +1,3 @@
+https://files.pythonhosted.org/packages/b5/5b/0970a9bcdff70c87ad81a3bdb38bdc500e8ffc11427d9f8716c00e8321de/pika-1.5.0.tar.gz
+
+https://files.pythonhosted.org/packages/3d/d0/84614de2a53ad52370adc9f9260bea420e53e0c228a248ec0eacfa65ccbb/clamd-1.0.2-py2.py3-none-any.whl
